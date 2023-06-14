@@ -1,0 +1,7 @@
+version: 3
+endpoint: https://rys-twitter-clone.hasura.app/v1/graphql
+admin_secret: e76F2OjO7SJnxjwVMnSNeH1WP4QNFfHs7iO2Ckd8bcRfl6lPtK3hOn7FsqD58u4H
+metadata_directory: metadata
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: http://localhost:3000

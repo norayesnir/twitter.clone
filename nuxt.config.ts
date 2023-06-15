@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   apollo: {
     clients: {
       default: {
-        httpEndpoint: 'http://localhost:8080/'
+        httpEndpoint: 'https://rys-twitter-clone.hasura.app/'
       }
     }
   },

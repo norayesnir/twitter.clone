@@ -1,5 +1,5 @@
 version: 3
-endpoint: http://localhost:8080/
+endpoint: https://rys-twitter-clone.hasura.app/
 admin_secret: e76F2OjO7SJnxjwVMnSNeH1WP4QNFfHs7iO2Ckd8bcRfl6lPtK3hOn7FsqD58u4H
 metadata_directory: metadata
 actions:
